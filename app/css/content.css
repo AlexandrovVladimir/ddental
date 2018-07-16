@@ -1,0 +1,32 @@
+.content__left {
+  background-color: #f2f1f0;
+  padding-left: 49px;
+  padding-top: 40px;
+  padding-bottom: 115px;
+  width: 727px; }
+
+.content__right {
+  width: -webkit-calc(100% - 727px);
+  width: calc(100% - 727px); }
+
+.content__info {
+  width: 480px;
+  margin: auto;
+  padding-top: 64px; }
+
+.content__text {
+  color: #282828;
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  font-weight: 700; }
+  .content__text p {
+    margin-bottom: 30px;
+    line-height: 28.03px; }
+
+.content__title {
+  color: #465398;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 54.05px;
+  padding-bottom: 50px; }
